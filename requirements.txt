@@ -1,0 +1,15 @@
+# Core libraries
+
+torch>=2.0.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+
+# Optional (recommended for better performance & experimentation)
+
+scipy>=1.10.0
+
+# If using GPU (install separately based on your CUDA version)
+
+# Example (DO NOT include both CPU & CUDA versions together):
+
+# torch==2.0.0+cu118 -f https://download.pytorch.org/whl/torch_stable.html
