@@ -96,13 +96,6 @@ After training:
 * Curve deviates for large (x)
 * Fails to capture exponential decay
 
----
-
-# 🛠️ Improvements Applied
-
----
-
-
 
 
 ## 🔧 4. Adaptive Sampling
@@ -114,8 +107,6 @@ More training points where:
 
 ---
 
-
-# 🧠 Key Concepts Explained
 
 ---
 
@@ -158,14 +149,6 @@ Constraints that define the unique solution.
 
 👉 PINNs excel at interpolation, struggle with extrapolation.
 
----
-
-# ▶️ How to Run
-
-```bash
-pip install torch numpy matplotlib
-python pinn_ode.py
-```
 
 ---
 
